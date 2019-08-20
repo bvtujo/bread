@@ -7,3 +7,4 @@
 #
 layout: home
 ---
+A tiny diary for my bread experiments. 
