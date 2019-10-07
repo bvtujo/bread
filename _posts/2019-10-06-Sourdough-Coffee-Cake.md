@@ -1,6 +1,8 @@
 I know, I didn't think it would work either. 
 This recipe is adapted from [this one at TheSpruceEats](https://www.thespruceeats.com/recipes-using-sourdough-starter-1446644) with some major modifications. Namely, I didn't actually have vegetable oil, and I got spooked by a comment on the recipe that claimed it was very dry. 
-![](assets/image/2019-10-06-coffee-cake.jpg)
+
+Anyway, here's a picture of how it turned out:
+![](https://bvtujo.github.io/bread/assets/image/2019-10-06-coffee-cake.jpg)
 
 ## Ingredients
 ### Streusel Topping
