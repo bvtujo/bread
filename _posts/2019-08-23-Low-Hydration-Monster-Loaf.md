@@ -39,16 +39,6 @@ the final dough into one comically large one (about 750g flour) and one normal s
 <tr><td>**Pre-inoculation Hydration: 61%**</td></tr>
 <tr><td>**Overall Hydration: 65%**</td></tr>
 </table>
-| Ingredient  | %   | mass (g) |
-|------------+-----+---------|
-| White Flour | 87% | 1087.5   |
-| WW Flour    | 5%  | 62.5     |
-| Hi-Maize    | 8%  | 100      |
-| Starter (100% Hydration) | 20% | 250 |
-| Salt        | 2%  | 25       |
-| Water       | 61.5% | 768.8 |
-**Pre-inoculation Hydration: 61%**
-**Overall Hydration: 65%**
 
 ## Steps
 I did this loaf over two days. Here's the timeline:
