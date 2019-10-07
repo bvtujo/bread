@@ -2,7 +2,7 @@ This is a continuing experiment in low-hydration sourdough. Turns out that
 by being careful and methodical in your mixing and hydration, you can get 
 beautiful open crumb even from a 65% or lower loaf. The proof is in the pictures:
 
-![](https:/bvtujo.github.io/bread/assets/image/2019-08-23-Open-Crumb-Sourdough.jpg)
+![](https://bvtujo.github.io/bread/assets/image/2019-08-23-Open-Crumb-Sourdough.jpg)
 
 That's an earlier loaf, but it's got amazing structure for so little hydration. Plenty
 of big tunnels and a nice toothy crumb. 
@@ -14,6 +14,7 @@ the final dough into one comically large one (about 750g flour) and one normal s
 ## Baker's Percentages
 ### Total Flour: 1250 g
 ### Hydration: 65%
+
 | Ingredient  | %   | mass (g) |
 |-------------|-----|----------|
 | White Flour | 87% | 1087.5   |
