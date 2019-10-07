@@ -36,8 +36,8 @@ the final dough into one comically large one (about 750g flour) and one normal s
 <tr>
 <td>Water</td><td>61.5%</td><td>768.8</td>
 </tr>
-<tr><td>**Pre-inoculation Hydration: 61%**</td></tr>
-<tr><td>**Overall Hydration: 65%**</td></tr>
+<tr><td><b>Pre-inoculation Hydration: 61%</b></td></tr>
+<tr><td><b>Overall Hydration: 65%</b></td></tr>
 </table>
 
 ## Steps
