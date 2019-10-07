@@ -14,7 +14,31 @@ the final dough into one comically large one (about 750g flour) and one normal s
 ## Baker's Percentages
 ### Total Flour: 1250 g
 ### Hydration: 65%
-
+<table>
+<tr>
+<th>Ingredient</th><th>%</th><th>mass (g)</th>
+</tr>
+<tr>
+<td>White Flour</td><td>87%</td><td>1087.5</td>
+</tr>
+<tr>
+<td>WW Flour</td><td>5%</td><td>62.5</td>
+</tr>
+<tr>
+<td>Hi-Maize</td><td>8%</td><td>100</td>
+</tr>
+<tr>
+<td>Starter (100% Hydration)</td><td>20%</td><td>250</td>
+</tr>
+<tr>
+<td>Salt</td><td>2%</td><td>25</td>
+</tr>
+<tr>
+<td>Water</td><td>61.5%</td><td>768.8</td>
+</tr>
+<tr><td>**Pre-inoculation Hydration: 61%**</td></tr>
+<tr><td>**Overall Hydration: 65%**</td></tr>
+</table>
 | Ingredient  | %   | mass (g) |
 |------------+-----+---------|
 | White Flour | 87% | 1087.5   |
