@@ -16,7 +16,7 @@ the final dough into one comically large one (about 750g flour) and one normal s
 ### Hydration: 65%
 
 | Ingredient  | %   | mass (g) |
-|-------------|:---:|---------:|
+|-------------|:-----:|---------:|
 | White Flour | 87% | 1087.5   |
 | WW Flour    | 5%  | 62.5     |
 | Hi-Maize    | 8%  | 100      |
